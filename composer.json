@@ -1,0 +1,19 @@
+{
+    "name": "phapnguyenduc/laravel-manager",
+    "description": "This is laravel manager template",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhapNguyenDuc\\LaravelManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phap.nguyenduc",
+            "email": "phap.nguyenduc@vti.com.vn"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.0"
+    }
+}
